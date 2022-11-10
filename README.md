@@ -29,15 +29,18 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 most common month
 most common day of week
 most common hour of day
+<br/>
 #2 Popular stations and trip
 
 most common start station
 most common end station
 most common trip from start to end (i.e., most frequent combination of start station and end station)
+<br/>
 #3 Trip duration
 
 total travel time
 average travel time
+<br/>
 #4 User info
 
 counts of each user type
