@@ -47,7 +47,9 @@ The Files
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too:
 
 chicago.csv
+<br/>
 new_york_city.csv
+<br/>
 washington.csv
 
 All four of these files are zipped up in the "all_project_files" document in the Resources tab in the sidebar on the left side of this page. (You may need to scroll down inside the Resources tab to see the "all_project_files" doc.) You can choose to download and unzip that "all_project_files" doc to access all four project files, and do your project work on your local machine.
